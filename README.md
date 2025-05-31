@@ -28,4 +28,3 @@
 
 ---
 
-![Shreya's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=radical)
