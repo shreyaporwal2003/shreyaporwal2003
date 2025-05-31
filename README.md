@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi 👋, I'm Shreya
 
-<!--
-**shreyaporwal2003/shreyaporwal2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE student | 💻 Java Developer | 🌱 Currently learning Django & MERN Stack  
+🎯 Passionate about backend development, open source, and building useful tech.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+- **Languages:** Java, C, Python, JavaScript, HTML/CSS
+- **Frameworks:** Spring Boot, Django, React.js, Node.js
+- **Tools & Databases:** Git, GitHub, MySQL, MongoDB, Postman
+
+---
+
+## 🔭 Projects
+
+- **🎬 Movie Watchlist App** – Add, update, and manage your favorite movies
+- **🧠 AssignEase** – Role-based assignment management system 
+
+---
+
+## 📫 Let's Connect
+
+- 📧 Email: [your.email@example.com]
+- 💼 [LinkedIn](https://www.linkedin.com/in/shreyaporwal167/)
+- 🌐 [Portfolio Website](https://shreyaporwal2003.github.io/My_Portfoilio/)
+
+---
+
+![Shreya's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=radical)
