@@ -8,7 +8,7 @@
 ## 🚀 Tech Stack
 
 - **Languages:** Java, C, Python, JavaScript, HTML/CSS
-- **Frameworks:** Spring Boot, Django, React.js, Node.js
+- **Frameworks:** Spring Boot, Django, React.js
 - **Tools & Databases:** Git, GitHub, MySQL, MongoDB, Postman
 
 ---
