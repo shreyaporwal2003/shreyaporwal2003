@@ -22,7 +22,7 @@
 
 ## 📫 Let's Connect
 
-- 📧 Email: [your.email@example.com]
+- 📧 Email: [shreyaporwal167@gmail.com]
 - 💼 [LinkedIn](https://www.linkedin.com/in/shreyaporwal167/)
 - 🌐 [Portfolio Website](https://shreyaporwal2003.github.io/My_Portfoilio/)
 
