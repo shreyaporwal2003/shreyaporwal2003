@@ -13,13 +13,6 @@
 
 ---
 
-## 🔭 Projects
-
-- **🎬 Movie Watchlist App** – Add, update, and manage your favorite movies
-- **🧠 AssignEase** – Role-based assignment management system 
-
----
-
 ## 📫 Let's Connect
 
 - 📧 Email: [shreyaporwal167@gmail.com]
