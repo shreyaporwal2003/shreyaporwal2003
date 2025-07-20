@@ -9,7 +9,7 @@
 
 - **Languages:** Java, C, Python, JavaScript, HTML/CSS
 - **Frameworks:** Spring Boot, Django, React.js
-- **Tools & Databases:** Git, GitHub, MySQL, MongoDB, Postman
+- **Tools & Databases:** Git, GitHub, MySQL, MongoDB, Postman, Maven
 
 ---
 
